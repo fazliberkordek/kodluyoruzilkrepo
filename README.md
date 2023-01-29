@@ -22,4 +22,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 # Image / Resim
-![image](https://tenor.com/bHFTi.gif)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgenius.com%2FRick-astley-never-gonna-give-you-up-lyrics&psig=AOvVaw0QClevdoECVFF7-V9P7vVr&ust=1675037403404000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjflt2-6_wCFQAAAAAdAAAAABAE)
